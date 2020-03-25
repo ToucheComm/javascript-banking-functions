@@ -29,7 +29,7 @@ function FV(fv_rate, fv_periods, fv_payments, fv_present_value, fv_type) {
  * @return {number}
  * pv_rate (required argument) = The interest rate per compounding period.
  * A loan with a 12% annual interest rate and monthly required payments would have a monthly interest rate of 12%/12 or 1%.
- * Therefore, the pv_rate would be 1%.
+ * Therefore, the pv_rate would be 1% .
  *
  * pv_periods  (required argument) = The number of payment periods.
  * For example, a 3 year loan with monthly payments would have 36 periods.
