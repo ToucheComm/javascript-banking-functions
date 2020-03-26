@@ -2,11 +2,11 @@
 Writing clean efficient code is what adds real value when programing enterprise software.
 It's also proven that the quality of the code is directly correlated to the capability of the product. 
 
-See for yourself how our digital 'Banking Functions' provide real benefit when self servicing 
-consumers demands with continued prevention of errors and frauds.
+Determine for yourself how processing numbers digitally provides great benefit to servicing consumer 
+demand with continued prevention of worthless errors and frauds.
 
-Check out the 'Banking Functions' math now on [GitHub](./bank-functions.js) specifically written by ToucheComm for open source 
-using one of the most common developer coding languages online 'JavaScript'. 
+Check out the 'Banking Functions' math on [GitHub](./bank-functions.js) now specifically written by ToucheComm for open source 
+utilizing one of the most common developer coding languages online... 'JavaScript'. 
 
 ### Future Value = FV (rate,nper,pmt,(pv),(type))
 The Future Value (FV) function helps calculate the future value of investments made
