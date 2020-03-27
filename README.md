@@ -2,8 +2,8 @@
 Writing clean efficient code is what adds real value when programing enterprise software.
 It's also proven that the quality of the code is directly correlated to the capability of the product. 
 
-Determine for yourself how processing numbers digitally provides great benefit to servicing consumer 
-demand with continued prevention of worthless errors and frauds.
+Determine for yourself how processing numbers digitally provides great benefit to servicing consumer demand 
+quicker along with the continued prevention of worthless errors and frauds.
 
 Check out the 'Banking Functions' math on [GitHub](./bank-functions.js) now specifically written by ToucheComm for open source 
 utilizing one of the most common developer coding languages online... 'JavaScript'. 
